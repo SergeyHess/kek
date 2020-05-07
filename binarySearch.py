@@ -1,4 +1,3 @@
-
 def binary_search(arr, value):
     top = len(arr) - 1
     bott = 0

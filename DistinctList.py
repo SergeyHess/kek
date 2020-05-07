@@ -5,6 +5,3 @@ def DistinctList(arr):
             counter = arr.count(arr[i])
     return counter
 
-
-arr_1 = [2, 2, 2, 2, 2, 3]
-print(DistinctList(arr_1))

@@ -9,7 +9,3 @@ def bubleSort(arr):
                 b = True
         j += 1
     return arr
-
-
-arr_ = [64, 34, 25, 12, 22, 11, 90]
-print(bubleSort(arr_))
